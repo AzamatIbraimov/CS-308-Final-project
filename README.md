@@ -42,3 +42,6 @@
  happens the new motor direction is then
  stored in F0.
 
+# Logic diagram
+
+<img src="https://www.edsim51.com/8051simulator/images/logicDiagrams/motor.png" alt="Preview"/>
